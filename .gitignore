@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Large data/artifacts (DON'T COMMIT)
+datasets/
+artifacts/
+duckdb_tmp/
+*.parquet
+*.csv
+
+# Secrets
+*.key
+*.pem
+*.env

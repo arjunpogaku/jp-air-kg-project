@@ -1,0 +1,5 @@
+duckdb
+pandas
+tqdm
+geopy
+holidays
