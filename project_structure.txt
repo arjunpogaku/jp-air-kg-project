@@ -1,0 +1,11 @@
+jp_air_project/
+  README.md
+  RULES.md
+  requirements.txt
+  config.py
+  00_make_holidays.py
+  01_spatial_enrich.py
+  02_convert_obs_to_parquet.py
+  03_build_feature_table.py
+  artifacts
+  datasets
